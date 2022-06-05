@@ -17,7 +17,7 @@
     <div class="container mx-auto">
         <div class="flex flex-wrap">
             <a
-                href="https://get-better.me/"
+                href="https://www.wb-fernstudium.de"
                 target="_blank"
                 rel="noopener"
                 class="w-full lg:w-1/2 px-6 my-4 border-l-4 border-white transition duration-100 hover:border-red-500"
@@ -34,7 +34,7 @@
                 </div></a
             >
             <a
-                href="https://get-better.me/"
+                href="https://bosch.com/"
                 target="_blank"
                 rel="noopener"
                 class="w-full lg:w-1/2 px-6 my-4 border-l-4 border-white transition duration-100 hover:border-red-500"
@@ -50,7 +50,7 @@
                     </div>
                 </div></a
             ><a
-                href="https://brandsafe.cc"
+                href="https://bosch.com"
                 target="_blank"
                 rel="noopener"
                 class="w-full lg:w-1/2 px-6 my-4 border-l-4 border-white transition duration-100 hover:border-red-500"

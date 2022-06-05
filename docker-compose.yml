@@ -3,7 +3,7 @@ version: '2.2'
 services:
   nginx:
     container_name: zaanposni_portfolio
-    image: ghcr.io/zaanposni/zaanposni_portfolio:latest
+    image: ghcr.io/zaanposni/zaanposni-portfolio:latest
     restart: unless-stopped
     ports:
       - "127.0.0.1:5570:80"
