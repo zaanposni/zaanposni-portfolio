@@ -25,7 +25,7 @@
                     <div class="flex items-baseline justify-between md:justify-start space-x-4 mb-1 leading-relaxed">
                         <h3 class="text-xl lg:text-3xl font-display font-extrabold">Wilhelm Büchner University</h3>
                     </div>
-                    <p class="font-medium leading-normal">Lorem ipsum</p>
+                    <p class="font-medium leading-normal">Applied Computer Science Bachelor (B.Sc.)</p>
                     <div class="mt-2 font-medium leading-normal text-gray-500">
                         <span>Computer Science - Study,</span> <span>2022</span>
                         —
