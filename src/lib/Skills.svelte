@@ -148,7 +148,7 @@
                 class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
                 Angular
             </a><a
-                href="https://duckduckgo.com/?q=C++"
+                href="https://duckduckgo.com/?q=C%2B%2B"
                 target="_blank"
                 rel="noopener"
                 class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
