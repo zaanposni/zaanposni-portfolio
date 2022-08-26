@@ -23,7 +23,7 @@
         transition-timing-function: ease-out;
         transition-delay: 0.06s;
     }
-    .social ion-icon {
+    .social i {
         transition-property: transform;
         transition-duration: 0.2s;
         transition-timing-function: ease-in-out;
@@ -44,7 +44,7 @@
     .social:hover .social-username {
         opacity: 1;
     }
-    .social:hover ion-icon {
+    .social:hover i {
         transform: rotate(-45deg);
     }
 </style>
@@ -58,13 +58,13 @@
                 target="_blank"
                 rel="noopener"
                 class="flex items-center h-12 text-2xl m-4 px-4 leading-loose social"
-                ><ion-icon name="arrow-forward-sharp" class="mr-2 md hydrated" role="img" aria-label="arrow forward sharp" />
+                ><i class="material-icons mr-2 md hydrated" role="img" aria-label="arrow forward sharp">arrow_forward</i>
                 <div>
                     <div class="social-name">GitHub</div>
                     <div class="social-username">@zaanposni</div>
                 </div></a
             ><a href="mailto:me@zaanposni.com" target="_blank" rel="noopener" class="flex items-center h-12 text-2xl m-4 px-4 leading-loose social"
-                ><ion-icon name="arrow-forward-sharp" class="mr-2 md hydrated" role="img" aria-label="arrow forward sharp" />
+                ><i class="material-icons mr-2 md hydrated" role="img" aria-label="arrow forward sharp">arrow_forward</i>
                 <div>
                     <div class="social-name">E-Mail</div>
                     <div class="social-username">me@zaanposni.com</div>

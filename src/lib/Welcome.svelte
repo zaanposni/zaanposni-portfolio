@@ -60,14 +60,14 @@
             <div class="flex items-center">
                 <!---->
                 {#if scrolled}
-                <div class="animate__animated animate__fadeInUp text-green-500">
-                    <ion-icon name="thumbs-up-sharp" class="mr-2 md hydrated" role="img" aria-label="thumbs up sharp" />
-                    Nice
+                <div class="flex flex-row items-center animate__animated animate__fadeInUp text-green-500">
+                    <span name="thumbs-up-sharp" class="material-icons mr-2 md hydrated" role="img" aria-label="thumbs up sharp">thumb_up</span>
+                    <span>Nice</span>
                 </div>
                 {:else}
-                <div>
-                    <ion-icon name="arrow-down-sharp" class="mr-2 md hydrated" role="img" aria-label="arrow down sharp" />
-                    Keep scrolling...
+                <div class="flex flex-row items-center">
+                    <span name="arrow-down-sharp" class="material-icons mr-2 md hydrated" role="img" aria-label="arrow down sharp">keyboard_arrow_down</span>
+                    <span>Keep scrolling...</span>
                 </div>
                 {/if}
             </div>
