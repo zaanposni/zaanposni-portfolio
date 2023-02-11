@@ -9,7 +9,7 @@
                 <div class="font-extrabold font-display text-3xl">TypeScript</div>
             </div>
             <div class="flex items-center justify-center bg-blue-600 bg-pattern-circuit" style="width: 15%; min-height: 75%;">
-                <div class="font-extrabold font-display text-2xl">Svelte<div>
+                <div class="font-extrabold font-display text-2xl">Svelte</div>
             </div>
             <div class="flex items-center justify-center bg-blue-600 bg-pattern-circuit" style="width: 10%; min-height: 65%;">
                 <div class="font-extrabold font-display text-lg">C#</div>
