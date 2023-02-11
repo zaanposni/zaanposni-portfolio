@@ -6,16 +6,16 @@
                 <div class="font-extrabold font-display text-5xl">Python</div>
             </div>
             <div class="flex items-center justify-center bg-blue-600 bg-pattern-circuit" style="width: 25%; min-height: 90%;">
-                <div class="font-extrabold font-display text-3xl">JavaScript</div>
+                <div class="font-extrabold font-display text-3xl">TypeScript</div>
             </div>
             <div class="flex items-center justify-center bg-blue-600 bg-pattern-circuit" style="width: 15%; min-height: 75%;">
-                <div class="font-extrabold font-display text-2xl">C#</div>
+                <div class="font-extrabold font-display text-2xl">Svelte<div>
             </div>
             <div class="flex items-center justify-center bg-blue-600 bg-pattern-circuit" style="width: 10%; min-height: 65%;">
-                <div class="font-extrabold font-display text-lg">PHP</div>
+                <div class="font-extrabold font-display text-lg">C#</div>
             </div>
             <div class="flex items-center justify-center bg-blue-600 bg-pattern-circuit" style="width: 5%; min-height: 10%;">
-                <div class="font-extrabold font-display text-base">Java</div>
+                <div class="font-extrabold font-display text-base">PHP</div>
             </div>
         </div>
         <div class="flex flex-col lg:hidden">
@@ -23,21 +23,28 @@
                 <div class="font-extrabold font-display text-5xl">Python</div>
             </div>
             <div class="flex items-center justify-center mb-4 bg-blue-600 bg-pattern-circuit" style="min-height: 90%;">
-                <div class="font-extrabold font-display text-3xl">JavaScript</div>
+                <div class="font-extrabold font-display text-3xl">TypeScript</div>
             </div>
             <div class="flex items-center justify-center mb-4 bg-blue-600 bg-pattern-circuit" style="min-height: 75%;">
-                <div class="font-extrabold font-display text-2xl">C#</div>
+                <div class="font-extrabold font-display text-2xl">Svelte</div>
             </div>
             <div class="flex items-center justify-center mb-4 bg-blue-600 bg-pattern-circuit" style="min-height: 65%;">
-                <div class="font-extrabold font-display text-lg">PHP</div>
+                <div class="font-extrabold font-display text-lg">C#</div>
             </div>
             <div class="flex items-center justify-center mb-4 bg-blue-600 bg-pattern-circuit" style="min-height: 10%;">
-                <div class="font-extrabold font-display text-base">Java</div>
+                <div class="font-extrabold font-display text-base">PHP</div>
             </div>
         </div>
     </div>
     <div class="container mx-auto">
         <div class="flex flex-wrap">
+            <a
+                href="https://duckduckgo.com/?q=Backend Development"
+                target="_blank"
+                rel="noopener"
+                class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
+                Backend Development
+            </a>
             <a
                 href="https://duckduckgo.com/?q=Web Development"
                 target="_blank"
@@ -62,13 +69,6 @@
                 rel="noopener"
                 class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
                 Tailwind CSS
-            </a>
-            <a
-                href="https://duckduckgo.com/?q=Svelte"
-                target="_blank"
-                rel="noopener"
-                class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
-                Svelte
             </a><a
                 href="https://duckduckgo.com/?q=CSS"
                 target="_blank"
@@ -88,6 +88,12 @@
                 class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
                 Git
             </a><a
+                href="https://duckduckgo.com/?q=GitLab"
+                target="_blank"
+                rel="noopener"
+                class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
+                GitLab
+            </a><a
                 href="https://duckduckgo.com/?q=Docker"
                 target="_blank"
                 rel="noopener"
@@ -105,12 +111,6 @@
                 rel="noopener"
                 class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
                 GitHub Actions
-            </a><a
-                href="https://duckduckgo.com/?q=MongoDB"
-                target="_blank"
-                rel="noopener"
-                class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
-                MongoDB
             </a><a
                 href="https://duckduckgo.com/?q=Jenkins"
                 target="_blank"
