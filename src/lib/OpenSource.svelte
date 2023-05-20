@@ -11,7 +11,7 @@
                     <div class="mb-1 text-xl lg:text-3xl font-display font-extrabold leading-relaxed">MASZ</div>
                     <p class="font-medium leading-normal">Full stack application, discord bot, svelte + carbon design system</p>
                     <div class="mt-2 font-medium leading-normal">
-                        <span class="text-red-500">1.820</span>
+                        <span class="text-red-500">1.940</span>
                         Downloads
                     </div>
                 </div></a
@@ -25,7 +25,7 @@
                     <div class="mb-1 text-xl lg:text-3xl font-display font-extrabold leading-relaxed">VVSPY</div>
                     <p class="font-medium leading-normal">Python API wrapper for Verkehrsverbund Stuttgart</p>
                     <div class="mt-2 font-medium leading-normal">
-                        <span class="text-red-500">17.581</span>
+                        <span class="text-red-500">18.981</span>
                         Downloads
                     </div>
                 </div></a
