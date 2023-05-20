@@ -130,6 +130,12 @@
                 class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
                 GitHub
             </a><a
+                href="https://duckduckgo.com/?q=Terraform"
+                target="_blank"
+                rel="noopener"
+                class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
+                Terraform
+            </a><a
                 href="https://duckduckgo.com/?q=ASP.NET"
                 target="_blank"
                 rel="noopener"
