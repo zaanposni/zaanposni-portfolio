@@ -3,6 +3,19 @@
     <div class="container mx-auto">
         <div class="flex flex-wrap">
             <a
+                href="https://github.com/zaanposni/psaggregator"
+                target="_blank"
+                rel="noopener"
+                class="w-full lg:w-1/2 px-6 my-4 border-l-4 border-white hover:border-red-500 transition duration-100"
+                ><div>
+                    <div class="mb-1 text-xl lg:text-3xl font-display font-extrabold leading-relaxed">PSAggregator</div>
+                    <p class="font-medium leading-normal">Full Stack Application that imports data from various Social Media and aggregates them.</p>
+                    <div class="mt-2 font-medium leading-normal">
+                        <span class="text-red-500">Launched recently!</span>
+                    </div>
+                </div></a
+            >
+            <a
                 href="https://github.com/zaanposni/discord-masz"
                 target="_blank"
                 rel="noopener"
@@ -11,7 +24,7 @@
                     <div class="mb-1 text-xl lg:text-3xl font-display font-extrabold leading-relaxed">MASZ</div>
                     <p class="font-medium leading-normal">Full stack application, discord bot, svelte + carbon design system</p>
                     <div class="mt-2 font-medium leading-normal">
-                        <span class="text-red-500">1.940</span>
+                        <span class="text-red-500">8.320</span>
                         Downloads
                     </div>
                 </div></a
@@ -25,7 +38,7 @@
                     <div class="mb-1 text-xl lg:text-3xl font-display font-extrabold leading-relaxed">VVSPY</div>
                     <p class="font-medium leading-normal">Python API wrapper for Verkehrsverbund Stuttgart</p>
                     <div class="mt-2 font-medium leading-normal">
-                        <span class="text-red-500">18.981</span>
+                        <span class="text-red-500">21.222</span>
                         Downloads
                     </div>
                 </div></a
