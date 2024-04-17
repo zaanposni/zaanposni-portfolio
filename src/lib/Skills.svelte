@@ -46,6 +46,13 @@
                 Backend Development
             </a>
             <a
+                href="https://duckduckgo.com/?q=Software Architecture"
+                target="_blank"
+                rel="noopener"
+                class="p-4 text-2xl hover:text-red-500 transition-colors duration-100">
+                Software Architecture
+            </a>
+            <a
                 href="https://duckduckgo.com/?q=Web Development"
                 target="_blank"
                 rel="noopener"
