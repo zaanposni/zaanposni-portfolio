@@ -11,7 +11,8 @@
                     <div class="mb-1 text-xl lg:text-3xl font-display font-extrabold leading-relaxed">PSAggregator</div>
                     <p class="font-medium leading-normal">Full Stack Application that imports data from various Social Media and aggregates them.</p>
                     <div class="mt-2 font-medium leading-normal">
-                        <span class="text-red-500">Launched recently!</span>
+                        <span class="text-red-500">100</span>
+                        Daily Users
                     </div>
                 </div></a
             >
