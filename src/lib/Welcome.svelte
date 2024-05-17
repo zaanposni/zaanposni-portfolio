@@ -43,11 +43,11 @@
                     <h1 class="animate__animated animate__fadeInDown">Yannick Gross</h1>
                 </div>
                 <div class="mb-6 lg:mb-0 font-bold text-3xl md:text-4xl xxl:text-5xl">
-                    <h3 class="animate__animated animate__fadeInUp animate__delay-800">Full Stack Developer</h3>
+                    <h2 class="animate__animated animate__fadeInUp animate__delay-800">Full Stack Developer</h2>
                 </div>
-                <div class="font-bold text-3xl md:text-4xl xxl:text-5xl"><h3 class="animate__animated animate__fadeInUp">
-                    Student for Computer Science
-                </h3></div>
+                <div class="font-bold text-3xl md:text-4xl xxl:text-5xl">
+                    <h2 class="animate__animated animate__fadeInUp">Student for Computer Science</h2>
+                </div>
             </div>
         </div>
     </div>
